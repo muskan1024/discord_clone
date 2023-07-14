@@ -22,7 +22,6 @@ const Login = () => {
                     <label className='text-gray-400'>Need an account? </label><label className=' text-sky-500 text-md hover:text-sky-600 '> Register</label>
                 </div>
             </div>
-            <div className='h-24 bg-zinc-700/50'></div>
         </div>
     )
 }
